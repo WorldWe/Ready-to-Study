@@ -1,0 +1,22 @@
+.card {
+
+    display:inline-block;
+    border:solid 1px white;
+
+}
+.btn{
+
+	background-color:#336600;
+}
+#mous:hover {
+	background-color:grey;
+	border:grey;
+
+
+
+
+}
+#foot{
+
+	display:inline-block;
+}
